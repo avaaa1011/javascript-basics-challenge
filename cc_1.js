@@ -33,3 +33,11 @@ let welcomeMessage = "Hi, " + customerName + ". Thank you for purchasing an Alan
 //logging the welcome message into the console
 console.log(welcomeMessage);
 
+//task 5 - boolean data type
+ let isLoggedIn = true;
+ if (isLoggedIn = true) 
+ {
+    console.log("Acess Granted");
+ }else{
+    console.log("Please try again. ");
+ }
