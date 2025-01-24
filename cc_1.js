@@ -24,9 +24,12 @@ console.log("Account balance after credit card bill is: ", accountBalance);
 accountBalance *= 4.25; //multiplying 4.25
 console.log("Account balance after interest: ", accountBalance);
 accountBalance /= 2; //Dividing by 2
-console.loh("Account balance after paying rent: ", accountBalance);
+console.log("Account balance after paying rent: ", accountBalance);
 
 //Task 4: String Data Type
 let customerName = "Britney Spears";
 //personalized message by concatenating strings and logging it
 let welcomeMessage = "Hi, " + customerName + ". Thank you for purchasing an Alani drink today!";
+//logging the welcome message into the console
+console.log(welcomeMessage);
+
